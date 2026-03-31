@@ -8,11 +8,8 @@ This project clusters Spotify tracks based on their acoustic features and assign
 
 ## Dataset
 
-**Spotify Tracks Dataset** — 114,000 tracks across 114 genres (1,000 tracks per genre).
-
-Download from: https://www.kaggle.com/code/jessieangelica/spotify-tracks-dataset/input
-
-Place the file in the project root as `dataset.csv`.
+Source: https://www.kaggle.com/code/jessieangelica/spotify-tracks-dataset/input  
+The dataset (`dataset.csv`) is included in the repository.
 
 ## Requirements
 
